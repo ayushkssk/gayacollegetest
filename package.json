@@ -1,0 +1,32 @@
+{
+  "name": "gayacollegegaya-webapp",
+  "version": "1.0.0",
+  "description": "A comprehensive web application for Gayacollegegaya.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^13.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "eslint": "8.0.0",
+    "eslint-config-next": "13.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": [
+    "nextjs",
+    "college",
+    "webapp",
+    "education"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+} 
